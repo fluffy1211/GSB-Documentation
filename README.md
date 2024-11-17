@@ -1,7 +1,5 @@
 # GSB-Documentation
 
-# GSB - Galaxy Swiss Bourdin
-
 Bienvenue sur le dépôt GitHub du projet GSB, un projet pédagogique inspiré du laboratoire pharmaceutique Galaxy Swiss Bourdin (GSB). Ce projet est conçu pour les étudiants du BTS SIO afin de simuler des situations professionnelles autour de la gestion d'un système informatique dans une entreprise.
 
 ---
@@ -30,50 +28,22 @@ Ce projet vise à moderniser et uniformiser la gestion des visiteurs médicaux e
 
 ---
 
-## 💻 Structure du système informatique
+## 📂 Documentation du projet
 
-- **Réseau structuré en VLAN** pour une segmentation efficace.
-- **Salle serveur sécurisée** : Accès restreint par badges et surveillance 24/7.
-- **Services réseau** : DNS, DHCP, messagerie, intranet, bases de données métier (produits, licences, etc.).
-- **Sécurité** : Virtualisation, RAID, réplication quotidienne des données aux États-Unis.
 
----
-
-## 📂 Contenu du dépôt
-
-- **Documentation** :
-  - Fiche descriptive du laboratoire et des besoins informatiques.
-  - Modèles d'architecture réseau et applicative.
-  - Normes de développement.
-- **Code source** :
-  - Modules pour l'application de gestion des frais.
-  - Service Web (API).
-  - Scripts SQL pour la création des bases de données.
-- **Schémas** :
-  - Schéma réseau et organisation des VLAN.
-  - Cycle de vie des états de frais.
-- **Projets PPE** :
-  - Équipement des visiteurs.
-  - Gestion des frais et des comptes-rendus.
-  - Assistance technique.
-
----
 
 ## ⚙️ Technologies utilisées
 
-- **Langages** : PHP, JavaScript, SQL.
-- **Frameworks** : MVC pour les applications web.
-- **SGBD** : MySQL.
-- **Outils réseau** : Apache, ProFTPd, Bind.
-
----
+- **Langages** : HTML, CSS, JavaScript, SQL.
+- **Frameworks** : Node.js, Express.js.
+- **Bases de données** : MySQL.
+- **Outils** : Git, GitHub, VS Code.
 
 ---
 
 ## 📖 Références
 
 - [Fiche descriptive du laboratoire GSB](docs/GSB-FicheDescriptive.pdf)
-- [Documentation technique des outils](docs/DocumentationTechnique.pdf)
 
 ---
 
